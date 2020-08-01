@@ -1,0 +1,1 @@
+{"version":3,"sources":["ChatBox.css","Massage.css"],"names":[],"mappings":"AAAA,aACE,qBAAuB,CACvB,WAAY,CACZ,SAAU,CACV,YACF,CCLA,MACE,QACF","file":"main.7af74a42.chunk.css","sourcesContent":[".ChatBox-box {\n  background-color: white;\n  margin: auto;\n  width: 70%;\n  height: 40rem;\n}\n",".line {\n  margin: 0;\n}\n"]}

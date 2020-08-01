@@ -1,0 +1,32 @@
+body {
+  background-color: #e8ecef;
+}
+
+.joinCode {
+  width: 60%;
+  display: inline;
+}
+
+.note {
+  margin-top: 3rem;
+}
+
+.joinButton {
+  margin-top: 0;
+  margin-left: 3rem;
+}
+
+.centered {
+  padding-top: 200px;
+  text-align: center;
+}
+.notice {
+  margin: 1rem;
+  text-align: center;
+  font-size: 2rem;
+  color: #000;
+}
+
+.head {
+  margin: 3rem;
+}
